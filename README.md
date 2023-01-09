@@ -7,5 +7,5 @@ It builds up also really simple way using html, css and vanilla javascript, I ho
 Check it out: https://random-choice-picker.web.app 
 
 
-![image](https://user-images.githubusercontent.com/90829509/211346759-c022a9a2-4b2a-46fc-9eb3-bdbe7fea840e.png)
+![image](https://user-images.githubusercontent.com/90829509/211368407-bac9b87f-9d15-47b8-8b0a-60fe746667d9.png)
 
