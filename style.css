@@ -19,6 +19,7 @@ background-color: #2b88f0;
 h3 {
     color: #ffffff;
     margin: 10px 0 20px;
+    text-align: center;
 }
 
 .container {
@@ -37,5 +38,15 @@ textarea {
 }
 
 .tag {
-    
+    background-color: #f0932b;
+    color: #fff;
+    border-radius: 50px;
+    padding: 10px 20px;
+    margin: 0 5px 10px 0;
+    font-size: 14px;
+    display: inline-block;
+}
+
+.tag.highlight {
+    background-color: #273c75;
 }
